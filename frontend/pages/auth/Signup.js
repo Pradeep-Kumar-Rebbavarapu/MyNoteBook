@@ -1,6 +1,6 @@
 import React from 'react'
 import { Formik, Form } from 'formik'
-import Input from '../../components/Input'
+import Input from '../../Components/Input'
 import * as Yup from 'yup'
 import Link from 'next/link'
 import { toast } from 'react-toastify';

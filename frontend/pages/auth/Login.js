@@ -2,7 +2,7 @@ import React, { useContext, useState } from 'react'
 import Context from '../../Context/Context';
 import Login1 from '/public/images/Login3.png'
 import { Formik, Form, Field } from 'formik'
-import Input from '../../components/Input'
+import Input from '../../Components/Input'
 import * as Yup from 'yup'
 import Router, { useRouter } from 'next/router';
 import { ToastContainer, toast } from 'react-toastify';
